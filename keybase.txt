@@ -1,0 +1,80 @@
+==================================================================
+https://keybase.io/diegocostantino
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://diegocostantino.com
+  * I am diegocostantino (https://keybase.io/diegocostantino) on keybase.
+  * I have a public key with fingerprint DB50 CB48 8F0D AD9D C572  C4E7 0249 A469 0F74 C7A3
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010148139361690f48eafbfeab2f2cbceecf45e7e576ab6938ea20f60cbd025a706b0a",
+            "fingerprint": "db50cb488f0dad9dc572c4e70249a4690f74c7a3",
+            "host": "keybase.io",
+            "key_id": "0249a4690f74c7a3",
+            "kid": "010148139361690f48eafbfeab2f2cbceecf45e7e576ab6938ea20f60cbd025a706b0a",
+            "uid": "3eba86a7f24a33261a2b3e24cde03219",
+            "username": "diegocostantino"
+        },
+        "revoke": {
+            "sig_ids": [
+                "6d5ee106ce9ecfc0f3ddeb8a479d543ff5b9404b3840539c6166bde4a12ac58b0f"
+            ]
+        },
+        "service": {
+            "hostname": "diegocostantino.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1477338077,
+    "expire_in": 157680000,
+    "prev": "06162674317d81c8d602c17b60ea21d199d9f75036ad2eb916648300536ed44d",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMN/AnicrZJrTBxVGIZ3EcqlKtiWVm41HdCiQTxz2bmsFOjFQq1gK5YSLoEzM2fo
+FHZnmV1uIVSCpOWSYFpKGlJ202QRA9iaEi8ECimNpEZBhdgKBX6oCbQCbQ20tSZQ
+z6D+0p+eP5Nz5v3e7/nec7585ilTkNnnQIca7LruNX9zzVxqynpWmq0iRE2uJKxV
+RBFa/6BiGTld+UWqTFgJQAKS4UlaoFmSFYDC8AgqooKgSCmUJEoISQpjQRyycCwU
+WYHG/ymgsEASZUBZIAdYEUAijlBUeyHSHbpqd2FbWbRgBcPzCpChLMiShaMkBnGA
+YgTIGI04RuIgjQuPaU6jAsOJ0IniVQ2f4U3+X3j/1v/P3KXrdjQSIc9CTqEYSNMU
+S0JKpBHFSDICNEUKhtCJdDu0IWM6FRVqEuaGdpdq14jqOEJHZVoRMuJ1qoWY3UlY
+cwhWtiBEAlZCAsaRgELLMhJ5yHCCbGFoRbGIAgMYkeYZYKEFCY/CijJiIElBycKL
+QCHysDduXKZK6+ZGWP8NES9pNkzp0DUXPi3GgmMul8NqsLkqHUZBORLz/7bKF1W7
+jC8MF5Qh3alqdsJKYqXkUg1vkuE4muYBx8URqMKh6ihfNRQ4Sx7gZbRBZcYtYGKK
+5Ria5GSelHiZBZREciILcNqkTAqCLCicBdAslCkkCng+hqcBHpZFMsPIhDFcCU7Q
+SpKYExZiT5yfHbpKdURUXxvO9TWZg0wb/HyMl2wKCgz5530/7goxtbhbJhIWf6nc
+F7/xcNulHFvM4tS51bqtYSPAlLG9YblvX3ZUJmTLd6ZN3fN/75NAfcXPk3wSxib+
+FDo2uwtFvVtfu8X60elJ7c2Hmam3x+eHm9XR8JoDgyO38+bcmadiQ4Pbn2jDNwJe
+3AUjU0xe09NRTvvbl2fb0woi0k/VDhJ+3quWvMZPO4qnenpe23Ky8fWNM7GR8Qvx
+H3996dcY1/vnb3z26tW0ZWu2bJ7SD28uOF0+nZgSoeQkb93vtU5OKrVXRiO7moNP
+Vri1od88eXO6G031f+54uPPDt3wTfzjefHZ7xdmaplu3onec2Ztwt2HspROv1CF3
+xgV676Gy3W1Sp2339JGBCxl92W+EmWs7ksKqsu7nfSf+uBqeW19g9e9LjgmxiWzO
+UOfIc1ekiz3zR+uao3t80xsn3PetodG9jt+zjs+3pnY5b+ZEb6gdTJ/Zv/J8VMT4
+bHdvwcHepaWlbb7L6XvQnf4vXO53lJmb5d/GaEfaNy3nFyXV9Xte8AnzsHNVfczB
+x8mbHhXvSE94kFmydtF6byGmqVVIG3iyklS2FvdzuLPk5btrrdErKS0+UzWXt3k9
+I2FjZ0hf8KBhT9Bot6d7/I+VBaW6/oP6wBzv9YnzYwFRneeY1O+Huk6Ub/YMjtsC
+E/1XJWlSt9cFpDWBOwPuQ7G5X7VNw6PKo4rFFfFPrOXZYA==
+=lVwM
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/diegocostantino
+
+==================================================================
